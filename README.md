@@ -23,7 +23,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output 
+<img width="736" height="644" alt="{9511E683-E677-4219-BED9-3CC37586DFA1}" src="https://github.com/user-attachments/assets/6ec09a4f-8695-46d7-808e-91a1c33fa805" />
 
 # Result
-
-# Output 
+The given data is analysed using coeffificient of correlation and regression line.
